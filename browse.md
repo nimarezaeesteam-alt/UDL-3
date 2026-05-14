@@ -12,3 +12,5 @@
 ![favicon](pages/new.c.mi.com/20260514_125630/media/favicon.ico) 4- [new.c.mi.com](pages/new.c.mi.com/20260514_125630/index.md)
 
 ![favicon](pages/miuirom.org/20260514_130230/media/favicon.ico) 5- [miuirom.org](pages/miuirom.org/20260514_130230/index.md)
+
+![favicon](pages/miuirom.org/20260514_131211/media/favicon.ico) 6- [miuirom.org](pages/miuirom.org/20260514_131211/index.md)

@@ -10,3 +10,5 @@
 ![new.c.mi.com](./new.c.mi.com/20260514_125630/media/favicon.ico) **new.c.mi.com** — [ [مشاهده](./new.c.mi.com/20260514_125630/index.md) | [📦 دانلود](./new.c.mi.com/20260514_125630.zip) ]
 
 ![miuirom.org](./miuirom.org/20260514_130230/media/favicon.ico) **miuirom.org** — [ [مشاهده](./miuirom.org/20260514_130230/index.md) | [📦 دانلود](./miuirom.org/20260514_130230.zip) ]
+
+![miuirom.org](./miuirom.org/20260514_131211/media/favicon.ico) **miuirom.org** — [ [مشاهده](./miuirom.org/20260514_131211/index.md) | [📦 دانلود](./miuirom.org/20260514_131211.zip) ]
