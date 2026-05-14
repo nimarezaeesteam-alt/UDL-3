@@ -1,0 +1,2 @@
+./logo.png
+https://alsgp0.fds.api.xiaomi.com/community/common/favicon.ico

@@ -1,0 +1,15 @@
+./logo.png
+//cdn.alsgp0.fds.api.mi-img.com
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/css/main.1ac38c82.css
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/js/assets.chunk.8f10766b.js
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/js/common.chunk.163b00e2.js
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/js/main.09530a9e.js
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/js/react.chunk.b189f9d0.js
+//cdn.alsgp0.fds.api.mi-img.com/micomm/static/js/vendors.chunk.86eba4e9.js
+//polyfill.io/v3/polyfill.min.js?features=es5%2Ces6%2Ces7%2CPromise.prototype.finally%2CIntl%2CmatchMedia
+//unpkg.com/ionicons@5.0.0/dist/ionicons.js
+https://alsgp0.fds.api.xiaomi.com/community/common/favicon.ico
+https://as.alipayobjects.com/g/component/es6-promise/3.2.2/es6-promise.min.js
+https://as.alipayobjects.com/g/component/fastclick/1.0.6/fastclick.js
+https://font.sec.miui.com/font/css?family=MiSans:100,200,300,400,500,600,700,800:MiSans
+https://static-verify.sec.xiaomi.com/v2/js/v.js
